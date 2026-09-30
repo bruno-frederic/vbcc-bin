@@ -11,6 +11,6 @@
 -ldnodb=-s -Rshort
 -ul=-l%s
 -cf=-F%s
--ml=500
+-ml=1000
 -hunkdebug
 -amiga-softfloat
